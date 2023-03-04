@@ -1,0 +1,11 @@
+button {
+	background-color: lightblue;
+	font-weight: bold;
+	color: blue;
+}
+.text {
+	font-style: italic;
+}
+#capital-letter {
+	color: blue;
+}
