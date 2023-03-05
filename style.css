@@ -2,6 +2,10 @@ button {
 	background-color: lightblue;
 	font-weight: bold;
 	color: blue;
+	cursor: pointer;
+}
+button:active {
+	background-color: darkblue;
 }
 .text {
 	font-style: italic;
