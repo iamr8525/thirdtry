@@ -4,8 +4,11 @@ button {
 	color: blue;
 	cursor: pointer;
 }
-button:active {
+button:hover {
 	background-color: darkblue;
+}
+button:active {
+	background-color: red;
 }
 .text {
 	font-style: italic;
